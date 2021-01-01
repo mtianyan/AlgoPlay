@@ -16,6 +16,9 @@ def sort_test(sort_name, arr):
     elif sort_name == "InsertionSort":
         import InsertionSort
         InsertionSort.InsertionSort.sort(arr)
+    else:
+        raise ValueError("请输入正确的排序名称")
+    print("arr_sort", arr)
     if not is_sort(arr):
         raise RuntimeError(f"{sort_name} 未排序成功")
     end = time.time()
