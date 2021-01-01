@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/array.queue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/arrays.stack" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/impl.loopqueue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/loopqueue.without.size" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/loopqueue.without.wasting.space" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/more.leetcode" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/queue.comparison" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/stack.leetcode" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

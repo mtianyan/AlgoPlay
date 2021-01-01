@@ -1,0 +1,5 @@
+# Project exclude paths
+/out/
+/out/production/AlgoPlay/LinearSearch/basic/LinearSearch.js
+/src/LinearSearch/basic/LinearSearch.js
+/src/LinearSearch/custom/node_modules/
