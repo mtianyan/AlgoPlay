@@ -35,5 +35,9 @@ public class SelectionSort {
             Integer[] arr = ArrayGenerator.generateRandomArray(n, n);
             SortingHelper.sortTest("SelectionSort", arr);
         }
+        /**
+         * SelectionSort , n = 10000 : 0.103108 s
+         * SelectionSort , n = 100000 : 10.020195 s
+         */
     }
 }
