@@ -7,3 +7,9 @@ LinearSearch
 2. 选择排序
 
 SelectionSort
+
+3. 插入排序
+
+InsertionSort 洗牌
+
+

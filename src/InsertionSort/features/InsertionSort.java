@@ -50,6 +50,23 @@ public class InsertionSort {
             SortingHelper.sortTest("SelectionSort", arr2);
 
             System.out.println();
+            /**
+             * Random Array :
+             * InsertionSort , n = 10000 : 0.170421 s
+             * SelectionSort , n = 10000 : 0.111151 s
+             *
+             * Ordered Array :
+             * InsertionSort , n = 10000 : 0.000144 s
+             * SelectionSort , n = 10000 : 0.106255 s
+             *
+             * Random Array :
+             * InsertionSort , n = 100000 : 10.850796 s
+             * SelectionSort , n = 100000 : 9.702210 s
+             *
+             * Ordered Array :
+             * InsertionSort , n = 100000 : 0.000536 s
+             * SelectionSort , n = 100000 : 7.439078 s
+             */
         }
     }
 }

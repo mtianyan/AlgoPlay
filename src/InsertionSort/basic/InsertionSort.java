@@ -42,5 +42,9 @@ public class InsertionSort {
             Integer[] arr = ArrayGenerator.generateRandomArray(n, n);
             SortingHelper.sortTest("InsertionSort", arr);
         }
+        /**
+         * InsertionSort , n = 10000 : 0.157813 s
+         * InsertionSort , n = 100000 : 15.633680 s
+         */
     }
 }
