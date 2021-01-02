@@ -3,14 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AlgoPlay.iml" filepath="$PROJECT_DIR$/AlgoPlay.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/src/LinkedList/LinkedList.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/MergeSortMore/MergeSortMore.iml" filepath="$PROJECT_DIR$/src/MergeSortMore/MergeSortMore.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/src/QuickSort/QuickSort.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/QuickSortMore/QuickSortMore.iml" filepath="$PROJECT_DIR$/src/QuickSortMore/QuickSortMore.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/src/Recursion/Recursion.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/StacksQueues/StacksQueues.iml" filepath="$PROJECT_DIR$/src/StacksQueues/StacksQueues.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/LinkedList/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/src/LinkedList/leetcode/leetcode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/StacksQueues/leetcode/leetcode1.iml" filepath="$PROJECT_DIR$/src/StacksQueues/leetcode/leetcode1.iml" />
     </modules>
   </component>
 </project>
