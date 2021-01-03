@@ -20,5 +20,9 @@ Arrays
 
 StacksQueues
 
+6. 链表
+
+LinkedList
+
 
 
