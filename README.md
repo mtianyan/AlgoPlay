@@ -39,14 +39,19 @@ QuickSort
 
 QuickSortMore
 
-10. 二分搜索树
+10. 二分查找
+
+BinarySearch
+
+11. 二分搜索树
 
 BinarySearchTree
 BinarySearchMore
 
-11. 集合和映射
+12. 集合和映射
 
 SetMap
+
 
 
 
