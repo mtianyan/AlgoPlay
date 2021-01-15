@@ -52,6 +52,22 @@ BinarySearchMore
 
 SetMap
 
+13. 优先队列 和 堆
+
+17-Heap
+
+18-Priority-Queue
+
+14. 冒泡排序
+
+19-Bubble-Sort
+
+15. 希尔排序
+
+20-Shell-Sort
+
+16. 线段树
+
 
 
 
